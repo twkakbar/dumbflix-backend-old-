@@ -1,7 +1,7 @@
 def secret = 'github'
 def server = 'twk@103.183.75.137'
 def directory = 'dumbflix-backend'
-def branch = 'main'
+def branch = 'production'
 
 pipeline{
     agent any
